@@ -1,0 +1,3 @@
+D:\Work\ImageToPDF\WinFormsApp2\bin\Release\net6.0-windows\publish\win-x86\ImageToPDFConverter.pdb
+D:\Work\ImageToPDF\WinFormsApp2\bin\Release\net6.0-windows\publish\win-x86\libSkiaSharp.dll
+D:\Work\ImageToPDF\WinFormsApp2\bin\Release\net6.0-windows\publish\win-x86\ImageToPDFConverter.exe

@@ -1,0 +1,12 @@
+D:\Work\ImageToPDF\WinFormsApp2\bin\Release\net6.0-windows\publish\ImageToPDFConverter.exe
+D:\Work\ImageToPDF\WinFormsApp2\bin\Release\net6.0-windows\publish\ImageToPDFConverter.dll
+D:\Work\ImageToPDF\WinFormsApp2\bin\Release\net6.0-windows\publish\ImageToPDFConverter.deps.json
+D:\Work\ImageToPDF\WinFormsApp2\bin\Release\net6.0-windows\publish\ImageToPDFConverter.runtimeconfig.json
+D:\Work\ImageToPDF\WinFormsApp2\bin\Release\net6.0-windows\publish\ImageToPDFConverter.pdb
+D:\Work\ImageToPDF\WinFormsApp2\bin\Release\net6.0-windows\publish\Aspose.Words.Pdf2Word.dll
+D:\Work\ImageToPDF\WinFormsApp2\bin\Release\net6.0-windows\publish\Aspose.Words.dll
+D:\Work\ImageToPDF\WinFormsApp2\bin\Release\net6.0-windows\publish\SkiaSharp.dll
+D:\Work\ImageToPDF\WinFormsApp2\bin\Release\net6.0-windows\publish\runtimes\osx\native\libSkiaSharp.dylib
+D:\Work\ImageToPDF\WinFormsApp2\bin\Release\net6.0-windows\publish\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Work\ImageToPDF\WinFormsApp2\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Work\ImageToPDF\WinFormsApp2\bin\Release\net6.0-windows\publish\runtimes\win-x86\native\libSkiaSharp.dll
